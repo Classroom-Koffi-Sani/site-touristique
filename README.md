@@ -1,6 +1,11 @@
 # site-touristique
 Site touristique 
 
+## Membre du groupe 
+- ASSOGBA
+- EFOE
+- MAWUMEVI
+- TOKORO
 
 ## Objectif
 Nous souhaitons nous doter d'un site touristique décrivant les lieux d'attraction du Togo : les parcs, les cascades, les hôtels à proximité, les plages, ...
